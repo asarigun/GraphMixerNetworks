@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2301.12493"><img src="https://img.shields.io/badge/Paper-Report-brown"/></a>
   <a href="https://github.com/asarigun/GraphMixerNetworks/blob/master/LICENSE"><img src="https://img.shields.io/github/license/thudm/cogdl"/></a>
+  <a href="https://www.reddit.com/r/MachineLearning/comments/10sj2qf/r_graph_mixer_networks/?utm_source=share&utm_medium=web2x&context=3"><img src="https://img.shields.io/badge/Story-Reddit-red"/></a>
 </p>
 
 > *In this model, we try to use MLP-Mixer in Graph Neural Networks. The motivation for this project is to replace Transformers and Message Passing with MLP-Mixers in Graph Neural Nets*
@@ -13,6 +14,7 @@ Check out our paper below for more details
 > [Ahmet Sarıgün](https://asarigun.github.io/)     
 > *Arxiv, 2023*
 
+<p align="center"><img width="100%" src="assets/gmn.jpg"></p>
 
 ## Overview
 
